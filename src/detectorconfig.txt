@@ -1,0 +1,10 @@
+[UDP_INPUT]
+port = 5001
+width = 1920
+height = 1080
+rate = 30
+[UDP_OUTPUT]
+port = 5010
+width = 1280
+height = 720
+bitrate = 8000000

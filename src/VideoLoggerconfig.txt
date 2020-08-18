@@ -1,0 +1,6 @@
+[UDP]
+port = 5001
+
+[LOG]
+fileName = logVideo0.ts
+path = /home/step305/USBDsk/video/

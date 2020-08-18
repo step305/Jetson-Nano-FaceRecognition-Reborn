@@ -1,0 +1,5 @@
+[UDP]
+port = 5011
+
+[RTSP]
+port = 8001
