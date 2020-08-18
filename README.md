@@ -19,3 +19,4 @@ To be done:
 - database with known (fixed, slowly updated) and unknown (in-run updated) faces
 
 Project not ready! Just for fun now
+View src/REAMDE_FIRST.md 
